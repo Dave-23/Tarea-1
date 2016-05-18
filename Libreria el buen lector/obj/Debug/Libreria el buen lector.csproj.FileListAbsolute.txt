@@ -1,0 +1,6 @@
+c:\users\patterson\documents\visual studio 2013\Projects\Libreria el buen lector\Libreria el buen lector\bin\Debug\Libreria el buen lector.exe.config
+c:\users\patterson\documents\visual studio 2013\Projects\Libreria el buen lector\Libreria el buen lector\obj\Debug\Libreria el buen lector.csprojResolveAssemblyReference.cache
+c:\users\patterson\documents\visual studio 2013\Projects\Libreria el buen lector\Libreria el buen lector\bin\Debug\Libreria el buen lector.exe
+c:\users\patterson\documents\visual studio 2013\Projects\Libreria el buen lector\Libreria el buen lector\bin\Debug\Libreria el buen lector.pdb
+c:\users\patterson\documents\visual studio 2013\Projects\Libreria el buen lector\Libreria el buen lector\obj\Debug\Libreria el buen lector.exe
+c:\users\patterson\documents\visual studio 2013\Projects\Libreria el buen lector\Libreria el buen lector\obj\Debug\Libreria el buen lector.pdb
